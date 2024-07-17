@@ -240,4 +240,7 @@ footer a {
   .embed {
     aspect-ratio: 16/9;
   }
+  .instagram {
+    padding: 0px;
+  }
 }
